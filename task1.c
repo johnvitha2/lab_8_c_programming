@@ -1,5 +1,5 @@
 /*
-* EECS 348 Lab 5 Task 1
+* EECS 348 Lab 8 Task 1
 * Score Possibility Calculator
 * Input: NFL score (int)
 * Output: Possible scoring combinations
@@ -51,6 +51,7 @@ int main(){
         }
     }
 }
+
 
 
 

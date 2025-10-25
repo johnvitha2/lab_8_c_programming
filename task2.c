@@ -1,5 +1,5 @@
 /*
-* EECS 348 Lab 5 Task 2
+* EECS 348 Lab 8 Task 2
 * Performs temperature conversions between Fahrenheit, Celsius, and Kelvin. Categorize the temperature into predefined ranges based on 
 * its value and provide a weather advisory.
 * Input: Temperature (double), scale (char), scale to convert to (char)
@@ -101,6 +101,7 @@ int main(){
     return 0;
 }
     
+
 
 
 

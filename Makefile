@@ -8,3 +8,6 @@ task2: task2.o
 .PHONY: clean
 clean:
 	rm -f *.o prog1 prog2
+
+
+
